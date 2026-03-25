@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Development icon">
+  <circle cx="32" cy="32" r="28" fill="#0E4A83"/>
+  <path d="M24 20l-10 12 10 12M40 20l10 12-10 12" fill="none" stroke="#95DAFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="28" y="18" width="8" height="28" rx="4" fill="#F4C24E"/>
+</svg>

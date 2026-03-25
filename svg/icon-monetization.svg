@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Monetization icon">
+  <rect x="6" y="10" width="52" height="44" rx="12" fill="#0F477E"/>
+  <path d="M22 27c0-3 3-5 7-5h7c4 0 7 2 7 5s-3 5-7 5h-7c-4 0-7 2-7 5s3 5 7 5h13" fill="none" stroke="#90D8FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M32 18v30" stroke="#F5C24B" stroke-width="4" stroke-linecap="round"/>
+</svg>
